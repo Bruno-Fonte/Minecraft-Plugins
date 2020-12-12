@@ -1,0 +1,1 @@
+Esse plugin foi o primeiro que fiz. Ele é bem básico, apenas spawnando 3 creepers na posição do jogador que escrever o comando.
