@@ -1,0 +1,3 @@
+Esse plugin é uma versão bem básica de um plugin feito pelo youtuber Dream. Basicamente são dois listeners, um de bússola e outro de respawn.
+O da bússola faz ela apontar para o jogador selecionado com um click do botão direito do mouse. O listener do respawn simplesmente adiciona uma 
+bússola ao inventário de um jogador que foi morto assim que ele respawnar.

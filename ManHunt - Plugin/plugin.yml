@@ -1,0 +1,11 @@
+name: ManHunt
+version: 1.0
+author: Niko
+main: me.niko.manhunt.Main
+description: Fazer a bussola apontar para a presa
+
+commands:
+  manhunt:
+    aliases: [mh]
+  undo:
+    aliases: [ud]
