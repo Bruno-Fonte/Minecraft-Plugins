@@ -1,0 +1,9 @@
+name: CreeperSpawn
+version: 1.0
+author: Niko
+main: me.niko.CreeperSpawn.Main
+description: Spawns 3 creepers on player
+
+commands:
+  creepspawn:
+    aliases: [cs]
