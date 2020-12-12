@@ -1,0 +1,10 @@
+name: RandomItemDrop
+version: 1.0
+api-version: 1.13
+author: Niko
+main: me.niko.itemdrop.Main
+description: Drops aleatorios
+
+commands:
+  random:
+    aliases: [rd]

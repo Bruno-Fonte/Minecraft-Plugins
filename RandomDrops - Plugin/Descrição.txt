@@ -1,0 +1,1 @@
+Esse plugin faz com que todos os drops do jogo sejam aleatórios, tanto blocos quando são quebrados por um jogador tanto mobs quando morrem com um listener pra cada um desses eventos. Ele também utiliza um config file para manter os drops sempre consistentes durante o jogo (mas cada vez q o plugin é reiniciado ou o config file é apagado os drops mudam).
