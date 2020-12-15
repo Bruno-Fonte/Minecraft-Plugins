@@ -1,0 +1,1 @@
+Simples plugin que faz com que qualquer mob exploda se morrer atacado por um player.
